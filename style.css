@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(226, 226, 226);
+}
+h1 {
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2, p, div{
+    color:black;
+    font-family: sans-serif;
+}
+hr{
+    color: grey;
+}
